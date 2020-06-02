@@ -1579,19 +1579,19 @@ a.badge-light:hover, a.badge-light:focus {
 }
 
 .btn-success, a.btn-success {
-  background: #28846A;
-  border-color: #28846A;
+  background: #94FF6B;
+  border-color: #94FF6B;
   color: #fff;
 }
 
 .btn-success.disabled, a.btn-success.disabled {
-  background: #28846A;
+  background: #94FF6B;
   color: #fff;
 }
 
 .btn-success:hover, .btn-success:not(:disabled):not(.disabled).active, .btn-success:not(:disabled):not(.disabled):active, a.btn-success:hover, a.btn-success:not(:disabled):not(.disabled).active, a.btn-success:not(:disabled):not(.disabled):active {
-  background: #00B884;
-  border-color: #00B884;
+  background: #76FF65;
+  border-color: #76FF65;
   color: #fff;
 }
 
@@ -1601,19 +1601,19 @@ a.badge-light:hover, a.badge-light:focus {
 }
 
 .btn-danger, a.btn-danger {
-  background: #B83145;
-  border-color: #B83145;
+  background: #E3745F;
+  border-color: #E3745F;
   color: #fff;
 }
 
 .btn-danger.disabled, a.btn-danger.disabled {
-  background: #B83145;
+  background: #E3745F;
   color: #fff;
 }
 
 .btn-danger:hover, .btn-danger:not(:disabled):not(.disabled).active, .btn-danger:not(:disabled):not(.disabled):active, a.btn-danger:hover, a.btn-danger:not(:disabled):not(.disabled).active, a.btn-danger:not(:disabled):not(.disabled):active {
-  background: #B80300;
-  border-color: #B80300;
+  background: #E65A51;
+  border-color: #E65A51;
   color: #fff;
 }
 
@@ -1623,19 +1623,19 @@ a.badge-light:hover, a.badge-light:focus {
 }
 
 .btn-warning, a.btn-warning {
-  background: #F7E700;
-  border-color: #F7E700;
+  background: #FFDF69;
+  border-color: #FFDF69;
   color: #141414;
 }
 
 .btn-warning.disabled, a.btn-warning.disabled {
-  background: #F7E700;
+  background: #FFDF69;
   color: #141414;
 }
 
 .btn-warning:hover, .btn-warning:not(:disabled):not(.disabled).active, .btn-warning:not(:disabled):not(.disabled):active, a.btn-warning:hover, a.btn-warning:not(:disabled):not(.disabled).active, a.btn-warning:not(:disabled):not(.disabled):active {
-  background: #FACE13;
-  border-color: #FACE13;
+  background: #FFB046;
+  border-color: #FFB046;
   color: #141414;
 }
 
@@ -1645,19 +1645,19 @@ a.badge-light:hover, a.badge-light:focus {
 }
 
 .btn-info, a.btn-info {
-  background: #01FAEF;
-  border-color: #01FAEF;
+  background: #75D3E6;
+  border-color: #75D3E6;
   color: #fff;
 }
 
 .btn-info.disabled, a.btn-info.disabled {
-  background: #01FAEF;
+  background: #75D3E6;
   color: #fff;
 }
 
 .btn-info:hover, .btn-info:not(:disabled):not(.disabled).active, .btn-info:not(:disabled):not(.disabled):active, a.btn-info:hover, a.btn-info:not(:disabled):not(.disabled).active, a.btn-info:not(:disabled):not(.disabled):active {
-  background: #00CFFA;
-  border-color: #00CFFA;
+  background: #56D0E6;
+  border-color: #56D0E6;
   color: #fff;
 }
 
@@ -1731,7 +1731,7 @@ a.badge-light:hover, a.badge-light:focus {
 }
 
 .show .btn-success.dropdown-toggle {
-  background: #00B884;
+  background: #76FF65;
   color: #fff;
 }
 
@@ -1741,7 +1741,7 @@ a.badge-light:hover, a.badge-light:focus {
 }
 
 .show .btn-danger.dropdown-toggle {
-  background: #B80300;
+  background: #E65A51;
   color: #fff;
 }
 
@@ -1751,7 +1751,7 @@ a.badge-light:hover, a.badge-light:focus {
 }
 
 .show .btn-warning.dropdown-toggle {
-  background: #FACE13;
+  background: #FFB046;
   color: #141414;
 }
 
@@ -1761,7 +1761,7 @@ a.badge-light:hover, a.badge-light:focus {
 }
 
 .show .btn-info.dropdown-toggle {
-  background: #00CFFA;
+  background: #56D0E6;
   color: #fff;
 }
 
@@ -1826,13 +1826,13 @@ a.badge-light:hover, a.badge-light:focus {
 
 .btn-outline-success {
   background: transparent;
-  border-color: #28846A;
-  color: #00B884;
+  border-color: #94FF6B;
+  color: #76FF65;
 }
 
 .btn-outline-success:hover, .btn-outline-success:not(:disabled):not(.disabled).active, .btn-outline-success:not(:disabled):not(.disabled):active {
-  background: #28846A;
-  border-color: #28846A;
+  background: #94FF6B;
+  border-color: #94FF6B;
   color: #fff;
 }
 
@@ -1844,16 +1844,16 @@ a.badge-light:hover, a.badge-light:focus {
 .btn-outline-danger,
 a.btn-outline-danger {
   background: transparent;
-  border-color: #B83145;
-  color: #B80300;
+  border-color: #E3745F;
+  color: #E65A51;
 }
 
 .btn-outline-danger:hover, .btn-outline-danger:not(:disabled):not(.disabled).active, .btn-outline-danger:not(:disabled):not(.disabled):active,
 a.btn-outline-danger:hover,
 a.btn-outline-danger:not(:disabled):not(.disabled).active,
 a.btn-outline-danger:not(:disabled):not(.disabled):active {
-  background: #B83145;
-  border-color: #B83145;
+  background: #E3745F;
+  border-color: #E3745F;
   color: #fff;
 }
 
@@ -1867,16 +1867,16 @@ a.btn-outline-danger.focus {
 .btn-outline-warning,
 a.btn-outline-warning {
   background: transparent;
-  border-color: #F7E700;
-  color: #FACE13;
+  border-color: #FFDF69;
+  color: #FFB046;
 }
 
 .btn-outline-warning:hover, .btn-outline-warning:not(:disabled):not(.disabled).active, .btn-outline-warning:not(:disabled):not(.disabled):active,
 a.btn-outline-warning:hover,
 a.btn-outline-warning:not(:disabled):not(.disabled).active,
 a.btn-outline-warning:not(:disabled):not(.disabled):active {
-  background: #F7E700;
-  border-color: #F7E700;
+  background: #FFDF69;
+  border-color: #FFDF69;
   color: #141414;
 }
 
@@ -1890,16 +1890,16 @@ a.btn-outline-warning.focus {
 .btn-outline-info,
 a.btn-outline-info {
   background: transparent;
-  border-color: #01FAEF;
-  color: #01FAEF;
+  border-color: #75D3E6;
+  color: #75D3E6;
 }
 
 .btn-outline-info:hover, .btn-outline-info:not(:disabled):not(.disabled).active, .btn-outline-info:not(:disabled):not(.disabled):active,
 a.btn-outline-info:hover,
 a.btn-outline-info:not(:disabled):not(.disabled).active,
 a.btn-outline-info:not(:disabled):not(.disabled):active {
-  background: #01FAEF;
-  border-color: #01FAEF;
+  background: #75D3E6;
+  border-color: #75D3E6;
   color: #fff;
 }
 
@@ -6689,11 +6689,11 @@ i {
 }
 
 .submit-result span#success {
-  color: #00B884;
+  color: #76FF65;
 }
 
 .submit-result span#error {
-  color: #B80300;
+  color: #E65A51;
 }
 
 .submit-result span .error-color {
@@ -9834,7 +9834,7 @@ div[class*=' bg-black'].sidebar-nav-content .sidebar-bottom {
   top: 16px;
   right: 16px;
   z-index: 2;
-  background: #B83145;
+  background: #E3745F;
   width: 50px;
   height: 50px;
   border-radius: 50%;
